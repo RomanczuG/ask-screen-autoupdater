@@ -1,2 +1,4 @@
-# ask-screen-autoupdater
-New versions of my app.
+# ScreenQuery updater
+
+Check out my app!
+https://www.screenquery.com/ 
